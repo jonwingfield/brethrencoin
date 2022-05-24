@@ -1,3 +1,7 @@
+/**
+ * See https://www.oreilly.com/library/view/mastering-bitcoin/9781491902639/ch07.html for a reference on
+ * how Bitcoin structures its blockchain.
+ */
 use std::time::SystemTime;
 use std::fmt::{Display, Formatter, Result};
 use sha2::{Sha256, Digest};
